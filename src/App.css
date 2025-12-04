@@ -1,41 +1,46 @@
 /* ================================
    Readex Pro – Font Faces
 ================================ */
-
 @font-face {
   font-family: 'RBold';
-  src: url('./assets/fonts/ReadexPro-Bold.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-Bold.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RExtraLight';
-  src: url('./assets/fonts/ReadexPro-ExtraLight.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-ExtraLight.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RLight';
-  src: url('./assets/fonts/ReadexPro-Light.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-Light.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RMedium';
-  src: url('./assets/fonts/ReadexPro-Medium.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-Medium.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RRegular';
-  src: url('./assets/fonts/ReadexPro-Regular.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-Regular.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'RSemiBold';
-  src: url('./assets/fonts/ReadexPro-SemiBold.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-SemiBold.ttf') format('truetype');
+  font-display: swap;
 }
-
 
 @font-face {
   font-family: 'RVariable';
-  src: url('./assets/fonts/ReadexPro-VariableFont_HEXP,wght.ttf') format('truetype');
+  src: url('/fonts/ReadexPro-VariableFont_HEXP,wght.ttf') format('truetype');
+  font-display: swap;
 }
 
 
